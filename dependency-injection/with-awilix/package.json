@@ -1,0 +1,16 @@
+{
+  "name": "with-awilix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "awilix": "^12.0.4",
+    "with-awilix": "file:"
+  }
+}
